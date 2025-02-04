@@ -1,3 +1,6 @@
+-- https://www.kaggle.com/datasets/swaptr/layoffs-2022   -Dataset Source
+
+
 -- Data cleaning
 
 select* from Layoffs;
