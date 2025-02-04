@@ -1,5 +1,6 @@
 # SQl_Covid-19_Tech_Layoffs_Analysis
 SQL Project - Data Cleaning and EDA
+Dataset Sourcefile - https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
 •	Removed duplicate records, standardized data, and eliminated unnecessary rows/columns to ensure data integrity.
 
